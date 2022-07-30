@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Nome 1",
+        "address": "Enderço 1",
+        "description": "Descriçao 1",
+    },
+    {
+        "name": "Nome 2",
+        "address": "Enderço 2",
+        "description": "Descriçao 2",
+    }
+]
